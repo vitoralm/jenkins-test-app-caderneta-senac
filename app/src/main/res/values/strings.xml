@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">caderneta_de_gastos</string>
+
+    <string name="addGasto">Adicionar Gasto</string>
+    <string name="nome">Nome</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="descricao">Descrição</string>
+    <string name="adicionar">Adicionar</string>
+
+    <string-array name="tipo_gasto">
+        <item>Despesa</item>
+        <item>Investimento</item>
+    </string-array>
+
+    <string-array name="categorias">
+        <item>Saude</item>
+        <item>Supermecado</item>
+        <item>Combustível</item>
+        <item>Entretenimento</item>
+    </string-array>
+
+    <string-array name="estabelecimentos">
+        <item>Sem estabelecimento</item>
+    </string-array>
+
+    <string name="LoginTitle">Caderneta de Gastos</string>
+    <string name="user">Usuario</string>
+    <string name="password">Senha</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="register">Criar Conta</string>
+
+    <string name="createAccount">Criar Conta</string>
+    <string name="userName">Nome de Usuario</string>
+    <string name="email">Email</string>
+    <string name="phoneNumber">Numero de Telefone</string>
+    <string name="createPassword">Senha</string>
+    <string name="confirmPassword">Confirmar Senha</string>
+    <string name="btnRegister">Cadastrar</string>
+    <string name="option">Ou se ja tem uma conta</string>
+    <string name="btnLogin">Entrar</string>
+
+    <string name="ver_gastos">Ver Gastos</string>
+    <string name="despesa">Despesa</string>
+
+    <string name="gasto_mensal">Gasto Mensal</string>
+    <string name="saldo_mensal">Saldo Mensal</string>
+    <string name="renda_mensal">Renda Mensal</string>
+    <string name="gasto_total">Gasto Total</string>
+
+    <string name="TextAlterarRenda">Alterar Renda</string>
+    <string name="editTexNovaRenda">Nova Renda</string>
+    <string name="btnAlterar">Alterar</string>
+
+    <string name="btn_adicionarGastos">Adicionar Gastos</string>
+    <string name="btn_alterarRenda">Alterar Renda</string>
+    <string name="btn_verGastos">Ver Gastos</string>
+    <string name="btn_criarCategoria">Criar Categoria</string>
+    <string name="btn_criarEstabelecimento">Criar Estabelecimento</string>
+    <string name="textView_cadernetaDeGastos">Caderneta de Gastos</string>
+
+
+</resources>
